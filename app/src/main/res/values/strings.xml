@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WeatherAppUK</string>
+    <string name="splash_app_name">Welcome to WeatherAppUK</string>
 </resources>
